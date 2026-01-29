@@ -1,0 +1,10 @@
+openai
+agents
+python-dotenv
+pandas
+fastapi
+uvicorn
+pydantic
+requests
+
+
