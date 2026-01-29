@@ -6,5 +6,7 @@ fastapi
 uvicorn
 pydantic
 requests
+beautifulsoup4
+
 
 
